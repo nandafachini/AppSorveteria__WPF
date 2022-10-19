@@ -1,0 +1,112 @@
+﻿<Window
+    x:Class="AppSorveteria__WPF.Views.CadastroAcai"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:AppSorveteria__WPF.Views"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="CadastroAcai"
+    Width="500"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid Background="#FFCCB2CC">
+
+        <TextBlock
+            Width="200"
+            Height="30"
+            Margin="20,125,20,10"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontSize="15"
+            FontWeight="Medium"
+            Text="Escolha o Tamanho desejado"
+            TextAlignment="Right" />
+
+        <TextBlock
+            Width="200"
+            Height="30"
+            Margin="20,200,20,10"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontSize="15"
+            FontWeight="Medium"
+            Text="Escolha a Fruta desejada"
+            TextAlignment="Right" />
+
+        <TextBlock
+            Width="200"
+            Height="30"
+            Margin="20,275,20,10"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontSize="15"
+            FontWeight="Medium"
+            Text="Escolha um Complemento"
+            TextAlignment="Right" />
+
+        <TextBlock
+            Width="250"
+            Height="30"
+            Margin="20,50,20,10"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            FontSize="15"
+            FontWeight="Heavy"
+            Text="Monte seu Açaí do seu jeito!"
+            TextAlignment="Center" />
+
+        <ComboBox
+            Width="200"
+            Height="30"
+            Margin="20,125,20,10"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Cursor="Hand"
+            Text="{Binding Tamanho}">
+            <ComboBoxItem>Grande</ComboBoxItem>
+            <ComboBoxItem>Médio</ComboBoxItem>
+            <ComboBoxItem>Pequeno</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox
+            Width="200"
+            Height="30"
+            Margin="20,200,20,10"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Cursor="Hand"
+            Text="{Binding Fruta}">
+            <ComboBoxItem>Morango</ComboBoxItem>
+            <ComboBoxItem>Banana</ComboBoxItem>
+            <ComboBoxItem>Manga</ComboBoxItem>
+            <ComboBoxItem>Melão</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox
+            Width="200"
+            Height="30"
+            Margin="20,275,20,10"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Cursor="Hand"
+            Text="{Binding Complemento}">
+            <ComboBoxItem>Granola</ComboBoxItem>
+            <ComboBoxItem>Sucrilhos</ComboBoxItem>
+            <ComboBoxItem>Chocoball</ComboBoxItem>
+            <ComboBoxItem>Paçoca</ComboBoxItem>
+        </ComboBox>
+
+        <Button
+            Width="150"
+            Height="25"
+            Margin="20,350,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            HorizontalContentAlignment="Center"
+            Click="SalvarAcai_Button"
+            Content="Salvar Pedido"
+            Cursor="Hand"
+            FontWeight="Medium" />
+
+    </Grid>
+</Window>
