@@ -101,6 +101,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Classes\RelayCommand.cs" />
+    <Compile Include="Repository\DataBase.cs" />
     <Compile Include="Repository\PGsqlDb.cs" />
     <Compile Include="Views\CadastroAcai.xaml.cs">
       <DependentUpon>CadastroAcai.xaml</DependentUpon>

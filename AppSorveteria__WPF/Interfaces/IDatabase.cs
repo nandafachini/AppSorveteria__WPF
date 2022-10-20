@@ -13,6 +13,7 @@ namespace AppSorveteria__WPF.Interfaces
         void AdicionarAcai(Acai acai);
         void ExcluirAcai(Acai acai);
         void AtualizarAcai(Acai acai);
+        bool ValidaAcai(Acai acai);
         IEnumerable<Acai> BuscaAcai();
     }
 }

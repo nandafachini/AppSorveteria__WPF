@@ -1,10 +1,3 @@
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF.csproj.AssemblyReference.cache
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF.csproj.SuggestedBindingRedirects.cache
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\MainWindow.g.cs
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\Views\CadastroAcai.g.cs
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\App.g.cs
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF_MarkupCompile.cache
-C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF_MarkupCompile.lref
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\bin\Debug\AppSorveteria__WPF.exe.config
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\bin\Debug\AppSorveteria__WPF.exe
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\bin\Debug\AppSorveteria__WPF.pdb
@@ -36,6 +29,13 @@ C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSor
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\bin\Debug\System.Threading.Channels.xml
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\bin\Debug\System.ValueTuple.xml
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF.csproj.AssemblyReference.cache
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\MainWindow.g.cs
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\Views\CadastroAcai.g.cs
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\App.g.cs
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF_MarkupCompile.cache
+C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF_MarkupCompile.lref
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\MainWindow.baml
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\Views\CadastroAcai.baml
 C:\Users\maria.fachini\Documents\Aplicações WPF\CRUD\AppSorveteria__WPF\AppSorveteria__WPF\obj\Debug\AppSorveteria__WPF.g.resources

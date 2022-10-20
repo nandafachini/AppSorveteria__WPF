@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSorveteria__WPF", "AppSorveteria__WPF\AppSorveteria__WPF.csproj", "{FC47F0B3-0D4C-4E1F-B731-339FADC28400}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSorveteria__WPFTest", "AppSorveteria__WPFTest\AppSorveteria__WPFTest.csproj", "{8AE898EA-70F3-4058-B18C-11F2D92DDDAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC47F0B3-0D4C-4E1F-B731-339FADC28400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC47F0B3-0D4C-4E1F-B731-339FADC28400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC47F0B3-0D4C-4E1F-B731-339FADC28400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE898EA-70F3-4058-B18C-11F2D92DDDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE898EA-70F3-4058-B18C-11F2D92DDDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE898EA-70F3-4058-B18C-11F2D92DDDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE898EA-70F3-4058-B18C-11F2D92DDDAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

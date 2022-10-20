@@ -35,6 +35,8 @@ namespace AppSorveteria__WPF.Classes
             catch (Exception ex)
             {
                 MessageBox.Show("" + ex);
+                Application.Current.Shutdown();
+
             }
 
 

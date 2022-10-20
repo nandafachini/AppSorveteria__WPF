@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPFTest\\AppSorveteria__WPFTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPFTest\\AppSorveteria__WPFTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPFTest\\AppSorveteria__WPFTest.csproj",
+        "projectName": "AppSorveteria__WPFTest",
+        "projectPath": "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPFTest\\AppSorveteria__WPFTest.csproj",
+        "packagesPath": "C:\\Users\\maria.fachini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPFTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maria.fachini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPF\\AppSorveteria__WPF.csproj": {
+                "projectPath": "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPF\\AppSorveteria__WPF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extras.Moq": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPF\\AppSorveteria__WPF.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPF\\AppSorveteria__WPF.csproj",
+        "projectName": "AppSorveteria__WPF",
+        "projectPath": "C:\\Users\\maria.fachini\\Documents\\Aplicações WPF\\CRUD\\AppSorveteria__WPF\\AppSorveteria__WPF\\AppSorveteria__WPF.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

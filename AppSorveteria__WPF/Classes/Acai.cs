@@ -37,6 +37,11 @@ namespace AppSorveteria__WPF.Classes
             set { complemento = value; }
         }
 
+        public Acai()
+        {
+
+        }
+
         public object Clone()
         {
             return MemberwiseClone();

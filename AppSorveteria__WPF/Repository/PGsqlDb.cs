@@ -76,7 +76,7 @@ namespace AppSorveteria__WPF.Repository
         /* Adiciono um novo açaí no banco */
         public void AdicionarAcai(Acai acai)
         {
-            if(acai == null || acai.Tamanho == null || acai.Fruta == null || acai.Complemento == null)
+            if (ValidaAcai(acai) == false)
             {
                 MessageBox.Show("Os parâmetros do objeto açaí não podem ser nulos");
 
@@ -124,6 +124,18 @@ namespace AppSorveteria__WPF.Repository
                 {
                     cmd.ExecuteNonQuery();
                 }
+            }
+        }
+
+        public bool ValidaAcai(Acai acai)
+        {
+            if (acai == null || acai.Tamanho.Length == 0 || acai.Fruta.Length == 0 || acai.Complemento.Length == 0)
+            {
+                return false;
+            }
+            else 
+            { 
+            return true;
             }
         }
     }
